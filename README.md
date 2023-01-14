@@ -2,6 +2,6 @@
 
 To run:
 
-go to file directory
-npm install
-node app.js -to run on port 3000
+1. go to file directory
+2. npm install
+3. node app.js -to run on port 3000
