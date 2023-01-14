@@ -1,0 +1,15 @@
+
+*{
+
+    color: aliceblue;
+    text-align: center;
+    background-color: black;
+}
+
+img{
+    padding: 100px;
+}
+
+button{
+    background-color: rgba(89, 89, 211, 0.699);
+}
