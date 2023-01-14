@@ -1,5 +1,6 @@
 # LoL-Summoner-Scrapper
 An application to get a players stats in Leauge of Legends using Riot API
+
 To run:
 
 1. go to file directory
